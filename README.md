@@ -64,11 +64,8 @@
 
 ###
 
-<h2 align="center"> Random Dev Quote</h2>
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+  <img src="img/assets/yoda.gif">
 
 ###
 
