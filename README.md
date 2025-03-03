@@ -1,8 +1,10 @@
-<h1 align="center">Hey 👋</h1>
+<h1 align="center">Hello there I'm Daianne</h1>
 
 ###
 
-<p align="center">I'm Daianne<br><br>👩🏻‍💻 Aspiring Data Scientist | Tech Enthusiast📚 Currently diving into Python and Web Development with JavaScript, HTML, and CSS🚀 Passionate about data, coding, and continuous learning</p>
+<p align="left">👩🏻‍💻 Aspiring Data Scientist | Tech Enthusiast<br><br>📚 Currently diving into Python and Web Development with JavaScript, HTML, and CSS<br><br>🚀 Passionate about data, coding, and continuous learning</p>
+
+> “Do. Or do not. There is no try.” — Yoda ✨⚔️
 
 ###
 
