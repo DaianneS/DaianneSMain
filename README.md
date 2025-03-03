@@ -2,9 +2,11 @@
 
 ###
 
-<p align="left">👩🏻‍💻 Aspiring Data Scientist | Tech Enthusiast<br><br>📚 Currently diving into Python and Web Development with JavaScript, HTML, and CSS<br><br>🚀 Passionate about data, coding, and continuous learning</p>
+<p align="center">👩🏻‍💻 Aspiring Data Scientist | Tech Enthusiast<br><br>📚 Currently diving into Python and Web Development with JavaScript, HTML, and CSS<br><br>🚀 Passionate about data, coding, and continuous learning</p>
 
-> “Do. Or do not. There is no try.” — Yoda ✨⚔️
+<div align="center">
+  <blockquote>“Do. Or do not. There is no try.” — Yoda✨⚔️</blockquote>
+</div>
 
 ###
 
