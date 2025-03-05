@@ -74,16 +74,16 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DaianneS/DaianneS/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="center"> GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DaianneS&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DaianneS/DaianneS/output/snake.svg" alt="Snake animation" />
 
 ###
